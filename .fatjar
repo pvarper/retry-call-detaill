@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Aug 28 13:59:26 BOT 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=retry-call-detail-process_fat.jar
+manifest.mergeall=true
+manifest.mainclass=micrium.calldetail.quartz.Main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
